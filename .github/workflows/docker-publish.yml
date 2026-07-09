@@ -17,7 +17,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: "pg_vr"
+  IMAGE_NAME: "superpkson/pg_vr"
 
 
 jobs:
